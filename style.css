@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: gray;
+    padding: 20px;
+    text-align: center;
+}
+
+.logo {
+    color: orange;
+    margin: 0;
+}
+
+.menu {
+    list-style-type: none;
+}
+
+.menu li {
+    display: inline;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.hero {
+    text-align: center;
+    padding: 80px;
+}
+
+.hero h1 {
+    font-size: 40px;
+}
+
+.hero p {
+    color: lightgray;
+}
+
+.join-btn {
+    background-color: orange;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
